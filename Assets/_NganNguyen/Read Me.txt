@@ -1,0 +1,8 @@
+﻿Cần những Package sau:
+    - Cinemachine
+    - Input System
+    - Universal RP
+*Set render pipeline:
+    - Edite -> project settings -> Graphics -> Scriptable render pipeline settings -> SG15 Universal Render Pipeline Asset.
+* Lưu ý:
+    - Để chế độ đèn pin hoạt động, Material của các Objects phải được đặt về "Lit", chế độ này không thể hoạt động đúng như dự định nếu Material của các Objects được set về "Unlit".
